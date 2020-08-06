@@ -22,8 +22,6 @@
     "@angular/platform-browser-dynamic": "~10.0.6",
     "@angular/router": "~10.0.6",
     "@flosportsinc/ng-video-autoplay": "^13.3.0",
-    "@ng-toolkit/serverless": "^8.1.0",
-    "@ng-toolkit/universal": "^1.1.21",
     "mat-video": "^2.8.1",
     "rxjs": "~6.5.5",
     "tslib": "^2.0.0",
